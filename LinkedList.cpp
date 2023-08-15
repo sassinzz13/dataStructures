@@ -1,4 +1,5 @@
 //Linked list Data Structure implementation 
+//Learning from the best https://www.youtube.com/watch?v=B31LgI4Y4DQ&list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m&index=8
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
